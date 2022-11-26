@@ -1,5 +1,4 @@
 files/
 .vscode/
 meili_data/
-rust/target/
-rust-meilisearch/target/
+target/
