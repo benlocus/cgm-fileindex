@@ -1,15 +1,14 @@
-import { IndexEntry } from "../indexer.ts"
+import AsyncThreadWorker from "../threadworker.ts"
+import { delay } from "https://deno.land/std@0.136.0/async/delay.ts";
 
-// this is a web worker, meaning that this acts as the main function
-self.onmessage = async (e: MessageEvent) => {
-    const { number, data } = e.data;
-    console.log("--> Message in worker with payload: ", e.data)
+class CountThreadWorker extends AsyncThreadWorker.ThreadWorker {
+    async on_request(id: number, data: any) {
+        console.log(":: Worker got message: ", data)
 
-    let i = 0;
-    while (i < number) {
-        i++;
+        await delay(3000)
+
+        this.send_response(id, data)
     }
+}
 
-    self.postMessage({})
-    self.close();
-};
+const thread_worker = new CountThreadWorker(self);

@@ -1,4 +1,4 @@
-import { ThreadPool } from "./threadpool.ts"
+import { ThreadPool } from "./node_threadpool.ts"
 
 // type definition for the api
 export interface IndexEntry {
