@@ -1,0 +1,10 @@
+/Users/benduke/Projects/deno-fileserver/rust/target/debug/deps/libdeno_bindgen_macro-2f5559e7c91f5bfb.dylib: /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/lib.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/attrs.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/derive_fn.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/derive_struct.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/docs.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/meta.rs
+
+/Users/benduke/Projects/deno-fileserver/rust/target/debug/deps/deno_bindgen_macro-2f5559e7c91f5bfb.d: /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/lib.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/attrs.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/derive_fn.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/derive_struct.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/docs.rs /Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/meta.rs
+
+/Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/lib.rs:
+/Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/attrs.rs:
+/Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/derive_fn.rs:
+/Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/derive_struct.rs:
+/Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/docs.rs:
+/Users/benduke/.cargo/registry/src/github.com-1ecc6299db9ec823/deno_bindgen_macro-0.7.0/src/meta.rs:
